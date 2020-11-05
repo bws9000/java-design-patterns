@@ -8,3 +8,12 @@ target
 *.jar
 *.war
 *.ear
+.idea
+*.iml
+*.swp
+datanucleus.log
+/bin/
+/bin/
+/bin/
+*.log
+event-sourcing/Journal.json
